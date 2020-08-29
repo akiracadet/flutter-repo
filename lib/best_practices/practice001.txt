@@ -1,0 +1,1 @@
+https://iiro.dev/2018/12/11/splitting-widgets-to-methods-performance-antipattern/
